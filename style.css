@@ -17,6 +17,8 @@ h1 {
 h2 {
     font-size: 1.5rem;
     padding-bottom: 1em;
+    font-weight: bold;   
+    color: orangered;
 }
 
 main {
@@ -55,4 +57,10 @@ i {
 
 #mainLeft {
     border-right: 1px solid lightgray;
+}
+
+name {
+    font-weight: bold;   
+    color: orangered;
+    text-decoration: underline;
 }
